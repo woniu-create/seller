@@ -1,7 +1,11 @@
 # sell
-
 > sell app
-
+项目名称：仿饿了么
+该项目基于vue进行开发，实践才能掌握知识，也算是对学习vue的知识进行巩固
+技术栈：webpack+vue-router+vue-axios
+该项目只是实现了小部分功能，后面的功能会陆续实现
+演示如下:
+![img]()
 ## Build Setup
 
 ``` bash
